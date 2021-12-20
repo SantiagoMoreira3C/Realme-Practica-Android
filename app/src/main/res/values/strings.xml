@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">REALM ANDROID</string>
+    <array name="gender">
+        <item>Grande</item>
+        <item>Pequeño</item>
+        <item>Otro</item>
+    </array>
+</resources>
